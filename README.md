@@ -2,11 +2,21 @@
 
 一体化个人成长管理 Web App：**健身饮食自律管理 + 求职发展规划** 两大板块，从 0 到 1 见证每一次成长。
 
-- 🌐 **在线体验**：<https://miaoyudong666six.github.io/Zeroto1-workbench/>（手机 / 电脑均可访问，支持"添加到主屏幕"作为 App 使用）
+- 🌐 **在线体验**：<https://miaoyudong666six.github.io/Zeroto1/>（手机 / 电脑均可访问，支持"添加到主屏幕"作为 App 使用）
 - 📱 移动端优先，响应式布局（手机胶囊底部导航 / 桌面图标侧边栏）
 - 🌍 中英文双语界面，一键切换
 - 💾 数据保存在浏览器本地，支持 JSON 一键导出 / 导入备份
 
+## 界面预览
+
+![Zeroto1 桌面端界面](docs/preview-desktop.png)
+
+<details>
+<summary>📱 点击展开移动端界面</summary>
+
+![Zeroto1 移动端界面](docs/preview-mobile.png)
+
+</details>
 ## 功能总览
 
 | 板块 | 模块 | 能力 |
